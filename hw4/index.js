@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'These were the ladies whom Emma found herself very frequently able to collect; and happy was she, for her fathers sake, in the power; though, as far as she was herself concerned, it was no remedy for the absence of Mrs. Weston.',
+      'These were the ladies whom Emma found herself very frequently able to collect',
   'example2':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
