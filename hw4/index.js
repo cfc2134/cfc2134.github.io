@@ -8,16 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'These were the ladies whom Emma found herself very frequently able to
-collect; and happy was she, for her father's sake, in the power; though,
-as far as she was herself concerned, it was no remedy for the absence of
-Mrs. Weston.',
+      'These were the ladies whom Emma found herself very frequently able to collect; and happy was she, for her father's sake, in the power; though, as far as she was herself concerned, it was no remedy for the absence of Mrs. Weston.',
   'example2':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
-      'Two nights together had these gentlemen, Marcellus and
-Barnardo, on their watch In the dead waste and middle of the night,
-Been thus encounter’d.',
+      'Two nights together had these gentlemen, Marcellus and Barnardo, on their watch In the dead waste and middle of the night, Been thus encounter’d.',
   'example4':
       'You could pretty plainly tell how long each one had been ashore.',    
 };
