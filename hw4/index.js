@@ -12,9 +12,7 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
-  'example4':
-      'Giuen priuate time to you; and you your selfe'
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
@@ -49,11 +47,11 @@ function doPredict(predict) {
   const result = predict(textField.value);
   score_string = "Class scores: ";
   for (var x in result.score) {
-    score_string += x + " ->  " + result.score[x].toFixed(4) + ", "
+    score_string += x + " ->  " + result.score[x].toFixed(3) + ", "
   }
   //console.log(score_string);
   status(
-      score_string + ' elapsed: ' + result.elapsed.toFixed(4) + ' ms)');
+      score_string + ' elapsed: ' + result.elapsed.toFixed(3) + ' ms)');
 }
 
 function prepUI(predict) {
