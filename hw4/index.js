@@ -12,9 +12,9 @@ const examples = {
   'example2':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
-      'Two nights together had these gentlemen, Marcellus and Barnardo, on their watch In the dead waste and middle of the night, Been thus encounter’d.',
+      'My lord, upon the platform where we watch',
   'example4':
-      'You could pretty plainly tell how long each one had been ashore.',    
+      'Finally, I always go to sea as a sailor, because of the wholesome exercise and pure air of the fore-castle deck.',    
 };
 
 function status(statusText) {
