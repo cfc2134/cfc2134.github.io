@@ -8,13 +8,18 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'These were the ladies whom Emma found herself very frequently able to
+collect; and happy was she, for her father's sake, in the power; though,
+as far as she was herself concerned, it was no remedy for the absence of
+Mrs. Weston.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Two nights together had these gentlemen, Marcellus and
+Barnardo, on their watch In the dead waste and middle of the night,
+Been thus encounter’d.',
   'example4':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',    
+      'You could pretty plainly tell how long each one had been ashore.',    
 };
 
 function status(statusText) {
