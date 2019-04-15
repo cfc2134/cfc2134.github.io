@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'My lord upon the platform where we watch',
   'example4':
-      'Finally I always go to sea as a sailor because of the wholesome exercise and pure air of the fore-castle deck',    
+      'Finally I always go to sea as a sailor because of the wholesome exercise and pure air',    
 };
 
 function status(statusText) {
